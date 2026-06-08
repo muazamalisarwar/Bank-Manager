@@ -14,3 +14,4 @@ Node::Node(int d)//Parameterized Constructor
 	pre = nullptr;
 	data = d;
 }
+
